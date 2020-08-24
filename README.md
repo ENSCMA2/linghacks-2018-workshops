@@ -9,4 +9,8 @@ python3 intropython.py
 ```
 
 ## Intro to Deep Learning
-This is a tutorial on covering the implementation of a basic LSTM network using the IMDB dataset from Keras.  Run ``` python3 lstmintro.py```.
+This is a tutorial on covering the implementation of a basic LSTM network using the IMDB dataset from Keras.  
+Running the program: 
+``` 
+python3 lstmintro.py
+```
